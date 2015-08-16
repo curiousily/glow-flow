@@ -1,0 +1,23 @@
+8 8 41
+7
+Green
+3 8
+5 3
+Yellow
+6 3
+6 5
+Pink
+3 3
+7 3
+Blue
+5 5
+8 6
+Cyan
+8 5
+2 4
+Dagger
+7 7
+5 8
+Purple
+1 1
+2 6

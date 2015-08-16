@@ -1,0 +1,17 @@
+8 8 30
+5
+Orange
+7 5
+7 1
+Green
+8 7
+5 6
+Yellow
+2 5
+1 7
+Pink
+1 4
+7 3
+Blue
+2 3
+4 3

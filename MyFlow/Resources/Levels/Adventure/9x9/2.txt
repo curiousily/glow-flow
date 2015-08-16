@@ -1,0 +1,20 @@
+9 9 37
+6
+Green
+9 8
+8 4
+Yellow
+5 5
+6 4
+Pink
+6 1
+2 3
+Blue
+1 2
+3 1
+Cyan
+5 8
+4 6
+Dagger
+3 9
+2 8

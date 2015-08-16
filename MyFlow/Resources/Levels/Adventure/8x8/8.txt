@@ -1,0 +1,20 @@
+8 8 40
+6
+Yellow
+3 8
+6 8
+Pink
+4 6
+7 6
+Blue
+7 3
+1 2
+Cyan
+2 7
+2 4
+Dagger
+6 4
+6 2
+Purple
+3 1
+8 2
